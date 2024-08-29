@@ -1,0 +1,9 @@
+1. Downloaded and installed git
+2. Git init
+3. git add <filename(s)>
+4. git add .
+5.  git commit -m
+6. git status
+7. git log
+8. git diff
+9. git checkout . -- It removes all changes 
